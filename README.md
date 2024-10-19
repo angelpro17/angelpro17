@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Software Engineering**
+ 🔭 I’m currently student on **Software Engineering**
  
  🌱 I’m currently learning **Web Development, Python, Java, TypeScript, Angular, Vue**
 
