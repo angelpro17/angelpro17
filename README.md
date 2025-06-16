@@ -39,7 +39,7 @@
 ## Frameworks
 <p align="center">
   <a href="https://github.com/angelpro17">
-    <img src="https://skillicons.dev/icons?i=angular,vue,flask,react,nestjs,spring,flutter" />
+    <img src="https://skillicons.dev/icons?i=angular,vue,spring,flutter" />
   </a>
 </p>
 
