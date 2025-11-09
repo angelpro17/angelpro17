@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=angelpro17.angelpro17" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Angel+Anampa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luis+Angel!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Peru 🇵🇪</h3>
 
-- 🌱 I’m a frontend developer looking for job opportunities.
-- 👯 Currently studying Software Engineering at UPC.
+- I’m a backend developer looking for job opportunities.
+- Currently studying Software Engineering at UPC.
 
 ## Connect with me:
 <div align="center"> 
@@ -25,7 +25,7 @@
 ## Languages
 <p align="center">
   <a href="https://github.com/angelpro17">
-    <img src="https://skillicons.dev/icons?i=python,java,typescript,html,css,js,swift,kotlin,php" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,java,typescript,html,css,js,swift,kotlin" alt="Programming Languages" />
   </a>
 </p>
 
@@ -39,14 +39,7 @@
 ## Frameworks
 <p align="center">
   <a href="https://github.com/angelpro17">
-    <img src="https://skillicons.dev/icons?i=angular,vue,spring,flutter" />
-  </a>
-</p>
-
-## Back-End Technologies
-<p align="center">
-  <a href="https://github.com/angelpro17">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+    <img src="https://skillicons.dev/icons?i=angular,react,spring,fastapi" />
   </a>
 </p>
 
