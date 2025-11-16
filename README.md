@@ -32,7 +32,7 @@
 ## Tools
 <p align="center">
   <a href="https://github.com/angelpro17">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql,mongodb,nodejs,firebase" alt="Development Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,mysql,nodejs,firebase" alt="Development Tools" />
   </a>
 </p>
 
