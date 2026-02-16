@@ -1,8 +1,5 @@
 <div align="center">
-
-# 👋 Hi, I'm Luis Angel
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Spring+Boot+%7C+Angular;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;👋+Hi,+I'm+Luis+Angel;Building+Scalable+Solutions" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-angel-anampa-lavado-a45345295/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anampalavadoluisangel@gmail.com)
